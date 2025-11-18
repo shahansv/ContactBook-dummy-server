@@ -1,0 +1,52 @@
+{
+  "contact": [
+    {
+      "id": "23c8",
+      "name": "Ariana Louis",
+      "phone": "9876543210",
+      "email": "arianalouis@gmail.com",
+      "photo": "https://randomuser.me/api/portraits/women/63.jpg",
+      "favorite": false
+    },
+    {
+      "id": "1f70",
+      "name": "Meera Jansen",
+      "phone": "9078563412",
+      "email": "",
+      "photo": "https://randomuser.me/api/portraits/women/90.jpg",
+      "favorite": true
+    },
+    {
+      "id": "6aea",
+      "name": "Rayan Cortez",
+      "phone": "9182736450",
+      "email": "rayancortez@gmail.com",
+      "photo": "https://randomuser.me/api/portraits/men/93.jpg",
+      "favorite": true
+    },
+    {
+      "id": "4aef",
+      "name": "Liana Brooks",
+      "phone": "9012873456",
+      "email": "",
+      "photo": "",
+      "favorite": false
+    },
+    {
+      "id": "98e3",
+      "name": "Ethan Vale",
+      "phone": "8723465135",
+      "email": "ethanvale@gmail.com",
+      "photo": "https://randomuser.me/api/portraits/men/42.jpg",
+      "favorite": true
+    },
+    {
+      "id": "3f9b",
+      "name": "Leo Hartman",
+      "phone": "9283475610",
+      "email": "leohartman@gmail.com",
+      "photo": "https://randomuser.me/api/portraits/men/3.jpg",
+      "favorite": true
+    }
+  ]
+}
